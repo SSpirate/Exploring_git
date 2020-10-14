@@ -1,2 +1,4 @@
 # Exploring_git
-LEARNING - GIT
+##LEARNING - GIT
+
+** Learning Git is Fun**
